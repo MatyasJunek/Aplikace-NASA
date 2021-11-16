@@ -1,4 +1,4 @@
-# Seznam aut
+# Aplikace NASA
 ## Verze 1.0
 ### Matyáš Junek
 #### 16. 11. 2021
@@ -19,14 +19,14 @@
   * Vymezení rozsahu
     * 
   * Na co se nebude klást důraz
-    *
+    * 
 * Celková hrubá architektura
   * Pracocní tok
-    *
+    * 
   * Detaily
-    *
+    * 
   * Všechny možné toky programu a jejich projevy
-    *
+    * 
 * Otevřené otázky
   * Části, na kterých se zatím nedosáhlo shody
-    *
+    * 
