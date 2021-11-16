@@ -13,7 +13,7 @@
     * [SRS](https://github.com/MatyasJunek/Aplikace-NASA/blob/main/README.md), [Nákres](xxxxxx)  
 * Scénáře
   * Všechny reálné způsoby použití
-    * 
+    * Program můžeme využít pro sledování objektů v blízkosti Země.
   * Detaily, motivace, „živé“ příklady
     * 
   * Vymezení rozsahu
