@@ -22,11 +22,11 @@
     * Důraz se nebude klást zejména na optimalizaci programu. Dále nebude zapotřebí zbytečná komplexnost a složitost - program by měl zůstat co nejvíce strohý.
 * Celková hrubá architektura
   * Pracocní tok
-    * Program by měl být jednoduchý a lehce použitelný. Při používání by se měl uživatel cítil lépe, než při používání oken prohlížeče.
+    * Program by měl být jednoduchý a lehce použitelný. Při používání by se měl uživatel cítil lépe, než při používání oken prohlížeče. Stejně tak by se měl cítit příjemněji, než čtení ve formátu JSON.
   * Detaily
-    * 
+    * Uživatel nemůže přímo do programu zasáhnout, protože se všechna data berou přímo z databáze NASA a uživatel nemůže nic přidat ani odebrat. Jediné chyby tak mohou být způsobeny chybou ve spojení, nebo nepřesností v kódu.
   * Všechny možné toky programu a jejich projevy
-    * 
+    * Hlavní okno programu ukazuje seznam asteroidů v blízkosti Země a jejich učité vlastnosti. Rozkliknutím jednotlivého asteroidu se zobrazí podrobnější informace. Informace se budou pravidelně aktualizovat a při výpadku spojení se zobrazí poslední aktualizované informace.
 * Otevřené otázky
   * Části, na kterých se zatím nedosáhlo shody
-    * 
+    * Implementace astronomických zajímavostí, které by mohly program obohatit a zveselit.
